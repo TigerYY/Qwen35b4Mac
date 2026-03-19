@@ -1,0 +1,5 @@
+.DS_Store
+qwen-local-web/venv/
+qwen-local-web/frontend/node_modules/
+qwen-local-web/frontend/dist/
+qwen-local-web/models--mlx-community--Qwen3.5-35B-A3B-4bit/
