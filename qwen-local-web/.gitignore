@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+frontend/.env.backend_port
+
+# macOS
+.DS_Store
+
+# 大模型权重目录（约 18GB，需单独下载）
+models--mlx-community--Qwen3.5-35B-A3B-4bit/
